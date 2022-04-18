@@ -1,0 +1,9 @@
+.row {
+    border: 1px solid lightgray;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin: 10px;
+}
